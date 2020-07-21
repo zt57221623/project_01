@@ -2,3 +2,4 @@
 *.js
 #排除base.js
 !base.js
+!index.js
